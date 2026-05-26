@@ -1,24 +1,51 @@
-# Exercícios MVC
+# 📘 Repositório de Aulas – Machine Learning  
+**Fatec-Jahu – DSM – 5º Semestre**  
+**Professor: Tiago Silva**
 
-Este repositório contém exercícios práticos desenvolvidos para estudar o padrão de arquitetura MVC (Model-View-Controller).
+Repositório contendo todas as aulas, códigos, exercícios e atividades desenvolvidas na disciplina de **Aprendizagem de Máquina (Machine Learning)**. O objetivo é reunir todo o conteúdo estudado ao longo do semestre.
 
-## Conteúdo
+---
 
-- Exercício 1
-- Exercício 2
-- Exercício 3
-- Exercício 4
+## 📚 Conteúdos abordados
+- Introdução ao Machine Learning  
+- Preparação e limpeza de dados  
+- Divisão train/test/validation  
+- Regressão  
+- Classificação  
+- Árvores de decisão  
+- KNN  
+- Clustering (K-Means etc.)  
+- Avaliação de modelos  
+- Overfitting e underfitting  
+- Normalização e padronização  
+- Redes neurais (caso ministrado)
 
-## Tecnologias Utilizadas
+---
 
-- C#
-- ASP.NET MVC
-- Visual Studio
+## 🧪 Tecnologias e ferramentas
+- Python  
+- Jupyter Notebook  
+- Pandas  
+- NumPy  
+- Scikit-Learn  
+- Matplotlib / Seaborn  
+- Google Colab
 
-## Objetivo
+---
 
-Praticar a separação de responsabilidades entre Model, View e Controller, aplicando os conceitos básicos do padrão MVC.
+## 📁 Estrutura do repositório
+```
+/aula_01
+/aula_02
+/aula_03
+...
+/exercicios
+/projetos
+/datasets
+```
 
-## Autor
+---
 
-Amanda Frolini
+## 🎯 Objetivo
+Concentrar todo o conteúdo do semestre de Machine Learning, facilitando revisões, estudos e desenvolvimento de projetos relacionados.
+
