@@ -33,19 +33,6 @@ Repositório contendo todas as aulas, códigos, exercícios e atividades desenvo
 
 ---
 
-## 📁 Estrutura do repositório
-```
-/aula_01
-/aula_02
-/aula_03
-...
-/exercicios
-/projetos
-/datasets
-```
-
----
-
 ## 🎯 Objetivo
 Concentrar todo o conteúdo do semestre de Machine Learning, facilitando revisões, estudos e desenvolvimento de projetos relacionados.
 
